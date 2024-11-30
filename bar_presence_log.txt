@@ -1,0 +1,52 @@
+Bar Presence Log
+================
+
+Time Step 1:
+S:ta clara: Oden, Marleene, JB, Josse, Sara Carlberg, Yves, Paul (7 people)
+Bishops arm: Jeremy, Juliana, Nicole, clara (4 people)
+O'Connells: Sam, JB Peter, Andres, Kaan, Sandra, Tobbe (6 people)
+Movits Pub and Restaurang: Carl, Lange, Lois, Dalyl, Celina, Eyobb, Rebecca, Helgesson (8 people)
+Wirströms Pub: Erwin, Helena (2 people)
+The Liffey: Ingela, Gyllas (2 people)
+
+Time Step 2:
+O'Connells: Oden, Lange, JB, Helena (4 people)
+S:ta clara: Jeremy, Nicole, Rebecca, Tobbe (4 people)
+Wirströms Pub: Marleene, Andres, Dalyl, Ingela (4 people)
+The Liffey: Sam, Carl, Eyobb, Sara Carlberg, Yves, Helgesson, Paul (7 people)
+Movits Pub and Restaurang: Juliana, JB Peter, Sandra, Gyllas, clara (5 people)
+Bishops arm: Lois, Erwin, Kaan, Celina, Josse (5 people)
+
+Time Step 3:
+The Liffey: Oden, JB, Lois, Helena (4 people)
+O'Connells: Jeremy, Marleene, Juliana, Celina, Eyobb, Rebecca, Ingela, Paul (8 people)
+Bishops arm: Sam, Sandra, Helgesson (3 people)
+Wirströms Pub: Carl, Kaan, Nicole, Yves, Tobbe, clara (6 people)
+S:ta clara: Lange, JB Peter, Dalyl, Gyllas (4 people)
+Movits Pub and Restaurang: Erwin, Andres, Josse, Sara Carlberg (4 people)
+
+Time Step 4:
+Movits Pub and Restaurang: Oden, Jeremy, Ingela, Tobbe, Paul (5 people)
+Bishops arm: Marleene, Dalyl, Rebecca, Yves (4 people)
+S:ta clara: Sam, Juliana, Andres, Eyobb, Helena, clara (6 people)
+O'Connells: Carl, Lois, Erwin, Gyllas (4 people)
+The Liffey: Lange, JB Peter, Kaan, Sandra, Celina, Nicole (6 people)
+Wirströms Pub: JB, Josse, Sara Carlberg, Helgesson (4 people)
+
+Time Step 5:
+Bishops arm: Oden, Carl, Lange, Andres, Eyobb, Ingela, Sara Carlberg, Paul (8 people)
+Wirströms Pub: Jeremy, Sam, Juliana, JB Peter, Lois, Celina, Rebecca, Gyllas (8 people)
+The Liffey: Marleene, Tobbe, clara (3 people)
+Movits Pub and Restaurang: JB, Kaan, Nicole, Helena (4 people)
+S:ta clara: Erwin, Sandra (2 people)
+O'Connells: Dalyl, Josse, Yves, Helgesson (4 people)
+
+Time Step 6:
+Wirströms Pub: Oden, Lange, Sandra, Eyobb, Paul (5 people)
+The Liffey: Jeremy, Juliana, Erwin, Andres, Dalyl, Rebecca, Josse (7 people)
+Movits Pub and Restaurang: Marleene, Sam, Yves (3 people)
+S:ta clara: Carl, Lois, Kaan, Celina, Ingela, Helgesson (6 people)
+Bishops arm: JB, JB Peter, Helena, Gyllas, Tobbe (5 people)
+O'Connells: Nicole, Sara Carlberg, clara (3 people)
+
+No solitary bars found!
