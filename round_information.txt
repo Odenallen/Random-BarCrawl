@@ -1,0 +1,414 @@
+============================================================
+BAR CRAWL EVENT - ROUND ASSIGNMENTS
+============================================================
+
+
+============================================================
+ROUND 1
+============================================================
+
+S:ta clara:
+  Capacity: 7 people
+  Participants:
+    - Oden 
+    - Paul
+    - Emma Sterner
+    - Hedvig
+    - Helena
+    - Josse
+    - Simon
+
+O'Connells:
+  Capacity: 6 people
+  Participants:
+    - Moa Ahlbom
+    - Lois
+    - Ingela
+    - Emmy
+    - Vlad
+    - Moa (Andres)
+
+The Liffey:
+  Capacity: 6 people
+  Participants:
+    - Jocke
+    - Eyobb
+    - Sandra
+    - Dalyl
+    - Erwin
+    - Carl
+
+Movits Pub and Restaurang:
+  Capacity: 6 people
+  Participants:
+    - Jeremy
+    - Joakim Lange
+    - Sofia (Lange)
+    - Fanny
+    - Clara Wollter
+    - Demi
+
+International Bar:
+  Capacity: 5 people
+  Participants:
+    - Sam
+    - Marlene
+    - Andres
+    - Kaan
+    - Elliot
+
+Wirströms Pub:
+  Capacity: 8 people
+  Participants:
+    - Wilmer
+    - Oscar Wollter
+    - Rania
+    - Emma Sjöberg
+    - Chek
+    - Sophia
+    - Victor
+    - Sven
+
+
+============================================================
+ROUND 2
+============================================================
+
+S:ta clara:
+  Capacity: 7 people
+  Participants:
+    - Eyobb
+    - Sandra
+    - Jeremy
+    - Fanny
+    - Erwin
+    - Sven
+    - Kaan
+
+O'Connells:
+  Capacity: 8 people
+  Participants:
+    - Oden 
+    - Wilmer
+    - Dalyl
+    - Sofia (Lange)
+    - Helena
+    - Marlene
+    - Carl
+    - Victor
+
+The Liffey:
+  Capacity: 6 people
+  Participants:
+    - Rania
+    - Sam
+    - Moa Ahlbom
+    - Demi
+    - Simon
+    - Moa (Andres)
+
+Movits Pub and Restaurang:
+  Capacity: 6 people
+  Participants:
+    - Jocke
+    - Emma Sterner
+    - Lois
+    - Chek
+    - Sophia
+    - Vlad
+
+International Bar:
+  Capacity: 5 people
+  Participants:
+    - Oscar Wollter
+    - Paul
+    - Emma Sjöberg
+    - Hedvig
+    - Josse
+
+Wirströms Pub:
+  Capacity: 6 people
+  Participants:
+    - Joakim Lange
+    - Clara Wollter
+    - Ingela
+    - Emmy
+    - Andres
+    - Elliot
+
+
+============================================================
+ROUND 3
+============================================================
+
+S:ta clara:
+  Capacity: 4 people
+  Participants:
+    - Sofia (Lange)
+    - Lois
+    - Andres
+    - Elliot
+
+O'Connells:
+  Capacity: 4 people
+  Participants:
+    - Oscar Wollter
+    - Clara Wollter
+    - Sophia
+    - Kaan
+
+The Liffey:
+  Capacity: 5 people
+  Participants:
+    - Oden 
+    - Jeremy
+    - Paul
+    - Hedvig
+    - Helena
+
+Movits Pub and Restaurang:
+  Capacity: 8 people
+  Participants:
+    - Wilmer
+    - Rania
+    - Emma Sjöberg
+    - Dalyl
+    - Marlene
+    - Emmy
+    - Moa (Andres)
+    - Sven
+
+International Bar:
+  Capacity: 7 people
+  Participants:
+    - Eyobb
+    - Sandra
+    - Joakim Lange
+    - Fanny
+    - Ingela
+    - Chek
+    - Victor
+
+Wirströms Pub:
+  Capacity: 10 people
+  Participants:
+    - Jocke
+    - Sam
+    - Moa Ahlbom
+    - Emma Sterner
+    - Erwin
+    - Demi
+    - Josse
+    - Simon
+    - Carl
+    - Vlad
+
+
+============================================================
+ROUND 4
+============================================================
+
+S:ta clara:
+  Capacity: 10 people
+  Participants:
+    - Wilmer
+    - Oscar Wollter
+    - Moa Ahlbom
+    - Clara Wollter
+    - Marlene
+    - Ingela
+    - Emmy
+    - Victor
+    - Vlad
+    - Moa (Andres)
+
+O'Connells:
+  Capacity: 7 people
+  Participants:
+    - Sandra
+    - Jeremy
+    - Joakim Lange
+    - Hedvig
+    - Josse
+    - Simon
+    - Andres
+
+The Liffey:
+  Capacity: 4 people
+  Participants:
+    - Emma Sjöberg
+    - Fanny
+    - Chek
+    - Kaan
+
+Movits Pub and Restaurang:
+  Capacity: 3 people
+  Participants:
+    - Oden 
+    - Sam
+    - Elliot
+
+
+International Bar:
+  Capacity: 10 people
+  Participants:
+    - Jocke
+    - Rania
+    - Emma Sterner
+    - Erwin
+    - Demi
+    - Lois
+    - Helena
+    - Carl
+    - Sophia
+    - Sven
+
+Wirströms Pub:
+  Capacity: 4 people
+  Participants:
+    - Eyobb
+    - Paul
+    - Dalyl
+    - Sofia (Lange)
+
+
+============================================================
+ROUND 5
+============================================================
+
+S:ta clara:
+  Capacity: 4 people
+  Participants:
+    - Jocke
+    - Rania
+    - Emma Sjöberg
+    - Demi
+
+O'Connells:
+  Capacity: 3 people
+  Participants:
+    - Sam
+    - Erwin
+    - Chek
+  
+
+The Liffey:
+  Capacity: 11 people
+  Participants:
+    - Joakim Lange
+    - Sofia (Lange)
+    - Emma Sterner
+    - Clara Wollter
+    - Marlene
+    - Ingela
+    - Josse
+    - Emmy
+    - Sophia
+    - Sven
+    - Elliot
+
+
+Movits Pub and Restaurang:
+  Capacity: 6 people
+  Participants:
+    - Eyobb
+    - Oscar Wollter
+    - Paul
+    - Carl
+    - Andres
+    - Victor
+
+International Bar:
+  Capacity: 7 people
+  Participants:
+    - Oden 
+    - Wilmer
+    - Dalyl
+    - Moa Ahlbom
+    - Simon
+    - Vlad
+    - Moa (Andres)
+
+Wirströms Pub:
+  Capacity: 7 people
+  Participants:
+    - Sandra
+    - Jeremy
+    - Fanny
+    - Hedvig
+    - Lois
+    - Helena
+    - Kaan
+
+
+============================================================
+ROUND 6
+============================================================
+
+S:ta clara:
+  Capacity: 6 people
+  Participants:
+    - Sam
+    - Dalyl
+    - Joakim Lange
+    - Carl
+    - Chek
+    - Sophia
+
+O'Connells:
+  Capacity: 10 people
+  Participants:
+    - Jocke
+    - Eyobb
+    - Paul
+    - Rania
+    - Emma Sjöberg
+    - Emma Sterner
+    - Fanny
+    - Demi
+    - Sven
+    - Elliot
+
+
+The Liffey:
+  Capacity: 6 people
+  Participants:
+    - Wilmer
+    - Oscar Wollter
+    - Lois
+    - Andres
+    - Victor
+    - Vlad
+
+Movits Pub and Restaurang:
+  Capacity: 8 people
+  Participants:
+    - Sandra
+    - Moa Ahlbom
+    - Erwin
+    - Hedvig
+    - Helena
+    - Ingela
+    - Josse
+    - Simon
+    - Kaan
+
+International Bar:
+  Capacity: 4 people
+  Participants:
+    - Jeremy
+    - Sofia (Lange)
+    - Clara Wollter
+    - Emmy
+
+Wirströms Pub:
+  Capacity: 3 people
+  Participants:
+    - Oden 
+    - Marlene
+    - Moa (Andres)
+
+
+============================================================
+END OF ROUND INFORMATION
+============================================================
